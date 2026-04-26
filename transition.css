@@ -1,0 +1,56 @@
+#name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ab{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 250px;
+}
+img{
+    border: 5px,solid,orange;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #tr{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+    border: 2px,solid, black;
+    transition: all;
+    position: absolute;
+    left: 350px;
+    top: 350px;
+    border-radius: 50px;
+    
+    
+}
+#tr:hover{
+        background-color: azure;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: xx-large;
+        transition-duration: 1ms;
+        transition-timing-function: step-start;
+        transition-delay: 0s;
+        transition-behavior: initial;
+       transform: rotate(700deg);
+       transform: scale(3);
+       transform: translate(-120,50px);
+       transform: skew(50deg);
+    }
+ */
